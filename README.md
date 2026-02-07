@@ -6,6 +6,7 @@ Crowd counting plays a crucial role in applications like public safety and smart
 
 ##  Dataset
 The LYU-DroneInfrared dataset was captured by drone equipped with an infrared camera. It includes 64,210 frames from 237 sequences, covering the playgrounds, streets, squares, basketball courts and other scenes. The dataset contains a total of 2,997,352 annotation points and 11,612 people, and each image has a resolution of 640 × 512. We partitioned the dataset into training, validation, and test sets following a ratio of 6:1:3. The training set comprised 39,289 images, the validation set consisted of 5,841 images, and the test set contained 18,980 images.
+
 <img src="/fig/fig1.png" width="600" alt="LYU-DroneInfrared">
 
 ##  Demo:
